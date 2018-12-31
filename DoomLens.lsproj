@@ -1,10 +1,10 @@
 {
     "lens_id": "",
-    "document_id": "vTFnreNDMsI1KgD9f2xn",
-    "original_document_id": "QS5Jz1Mo5hFbE4EBIwGg",
+    "document_id": "s1ZKk-2cerI-FLX2N4oF",
+    "original_document_id": "s1ZKk-2cerI-FLX2N4oF",
     "version": "2",
-    "lastChanged": "1546153228357",
-    "preview": "",
+    "lastChanged": "1546230625776",
+    "preview": "icon.png",
     "isReadOnly": "false",
     "studioVersion": {
         "createdWith": {
@@ -25,31 +25,110 @@
     "view": {
         "ResourceUiComponent": {
             "collapsedList": [
-                ""
+                [
+                    [
+                        "Audio",
+                        "Doom 1 theme song (HQ)"
+                    ],
+                    [
+                        "Audio",
+                        "playMusic"
+                    ],
+                    [
+                        "BehaviorScript"
+                    ],
+                    [
+                        "DOOM0001"
+                    ],
+                    [
+                        "Doom Sprites"
+                    ],
+                    [
+                        "Orthographic Camera Output"
+                    ],
+                    [
+                        "Scripts"
+                    ],
+                    [
+                        "Textures"
+                    ],
+                    [
+                        "Weapons"
+                    ],
+                    [
+                        "Weapons",
+                        "Axe",
+                        "Sounds"
+                    ],
+                    [
+                        "Weapons",
+                        "Axe",
+                        "Sounds",
+                        "Script"
+                    ],
+                    [
+                        "Weapons",
+                        "Axe",
+                        "Sounds",
+                        "swish"
+                    ],
+                    [
+                        "Weapons",
+                        "Axe",
+                        "Sprites",
+                        "Axe"
+                    ],
+                    [
+                        "Weapons",
+                        "Axe",
+                        "Sprites",
+                        "AxeGround"
+                    ],
+                    [
+                        "playAnimation"
+                    ]
+                ]
             ]
         },
         "SceneTreeUiComponent": {
             "collapsedList": [
-                ""
+                [
+                    "1498868548554305:767",
+                    "1546221167763073:3586",
+                    "1546221167768678:3657"
+                ]
             ]
         },
         "MetaInfoUIComponent": {
-            "hints": "",
-            "lens": "Untitled",
-            "camera": "2",
+            "icon_hash": "df7fbe41bed7807546d18e21c03b7896",
+            "icon_path": "icon.png",
+            "hints": [
+                ""
+            ],
+            "lens": "Cutout",
+            "camera": "1",
             "lens_descriptors": ""
         },
         "PreviewUiComponent": {
-            "is_back_camera": "false",
+            "is_back_camera": "true",
             "show_snap_ui": "true"
         },
         "InspectorUiComponent": {
             "collapsedList": [
-                ""
+                [
+                    "1495864608082702:309",
+                    "1499386910605002:2176",
+                    "1546224571232586:11458"
+                ]
             ]
         },
         "LayerUiComponent": {
-            "colorMap": ""
+            "colorMap": [
+                {
+                    "k": "0",
+                    "v": "20"
+                }
+            ]
         }
     },
     "model": {
@@ -74,6 +153,192 @@
                     "flags": "0",
                     "type": "1",
                     "subtype": "3"
+                },
+                {
+                    "resId": "13",
+                    "uid": "1498868868171510:1508",
+                    "name": "\/Resources\/Resource13.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "4",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "58",
+                    "uid": "1508792307502118:12224",
+                    "name": "\/Resources\/Resource58.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "4",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "134",
+                    "uid": "1546221167768491:3650",
+                    "name": "Orthographic Camera Output",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0",
+                    "type": "1",
+                    "subtype": "1"
+                },
+                {
+                    "resId": "136",
+                    "uid": "1546221167826009:3744",
+                    "name": "\/Resources\/Resource136",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "pass_source": [
+                            "\/Users\/steve.marton\/Snapchat\/Dev\/Studio3D\/Resources\/Studio3DResources.bundle\/shaders\/flat.glsl"
+                        ]
+                    },
+                    "flags": "3",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "137",
+                    "uid": "1546221171302929:4246",
+                    "name": "\/Resources\/Resource137.png",
+                    "sourceFilePath": "C:\/Users\/impet\/Desktop\/Doom Sprites.png",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "139",
+                    "uid": "1546221304389649:9844",
+                    "name": "\/Resources\/Resource139.png",
+                    "sourceFilePath": "C:\/Users\/impet\/Desktop\/Axe\/SPRITES\/axepa0.png",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "141",
+                    "uid": "1546221356965422:10200",
+                    "name": "\/Resources\/Resource141",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "pass_source": [
+                            "\/Users\/steve.marton\/Snapchat\/Dev\/Studio3D\/Resources\/Studio3DResources.bundle\/shaders\/flat.glsl"
+                        ]
+                    },
+                    "flags": "3",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "149",
+                    "uid": "1546221641215350:13128",
+                    "name": "\/Resources\/Resource136",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "pass_source": [
+                            "\/Users\/steve.marton\/Snapchat\/Dev\/Studio3D\/Resources\/Studio3DResources.bundle\/shaders\/flat.glsl"
+                        ]
+                    },
+                    "flags": "3",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "151",
+                    "uid": "1546222336317809:16776",
+                    "name": "\/Resources\/Resource151",
+                    "sourceFilePath": "C:\/Users\/impet\/Desktop\/Axe\/Axe.gif",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "5"
+                },
+                {
+                    "resId": "198",
+                    "uid": "1546229301099630:100154",
+                    "name": "\/Resources\/Resource198.png",
+                    "sourceFilePath": "C:\/Users\/impet\/Desktop\/DOOM0001.png",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "201",
+                    "uid": "1546229354152773:101794",
+                    "name": "\/Resources\/Resource136",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "pass_source": [
+                            "\/Users\/steve.marton\/Snapchat\/Dev\/Studio3D\/Resources\/Studio3DResources.bundle\/shaders\/flat.glsl"
+                        ]
+                    },
+                    "flags": "3",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "202",
+                    "uid": "1546229455822139:103987",
+                    "name": "\/Resources\/Resource202.js",
+                    "sourceFilePath": "C:\/Users\/impet\/Desktop\/BehaviorScript.js",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "4",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "203",
+                    "uid": "1546229487697100:104238",
+                    "name": "\/Resources\/Resource203.js",
+                    "sourceFilePath": "C:\/Users\/impet\/Desktop\/Left Folder\/playAnimation.js",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "4",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "204",
+                    "uid": "1546229991274455:130700",
+                    "name": "\/Resources\/Resource204.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "4",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "206",
+                    "uid": "1546230036487590:131369",
+                    "name": "\/Resources\/Resource206.mp3",
+                    "sourceFilePath": "C:\/Users\/impet\/Desktop\/Axe\/sounds\/swish.mp3",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "5",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "208",
+                    "uid": "1546230430780093:145357",
+                    "name": "\/Resources\/Resource208.mp3",
+                    "sourceFilePath": "C:\/Users\/impet\/Desktop\/Doom 1 theme song (HQ).mp3",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "5",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "209",
+                    "uid": "1546230443651414:145366",
+                    "name": "\/Resources\/Resource209.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "4",
+                    "subtype": "0"
                 }
             ]
         },
@@ -85,11 +350,23 @@
             }
         },
         "RenderOrderComponent": {
-            "autoRenderOrder": ""
+            "autoRenderOrder": {
+                "0": "101:100",
+                "1": "1508792221112267:12163",
+                "2": "1546221167763073:3586",
+                "3": "1546221167768678:3657",
+                "4": "1546221167769100:3658",
+                "5": "1546221356954951:10185",
+                "6": "1546221641215253:13121",
+                "7": "1546229354152593:101785",
+                "8": "1546230129129581:136092",
+                "9": "1546230140589690:138784",
+                "10": "1546230512717082:146590"
+            }
         },
         "LayerComponent": {
             "nextLayerId": "2",
-            "showOrthographicLayer": "false",
+            "showOrthographicLayer": "true",
             "layersInfo": [
                 {
                     "layerId": "0",
@@ -111,24 +388,185 @@
         "ResourceController": {
             "tree": {
                 "name": "Root",
-                "groups": "",
+                "groups": [
+                    {
+                        "name": "Scripts",
+                        "groups": "",
+                        "resources": [
+                            {
+                                "name": "WorldObjectController",
+                                "resourceId": "13",
+                                "extension": "js"
+                            },
+                            {
+                                "name": "CutoutSceneController",
+                                "resourceId": "58",
+                                "extension": "js"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Textures",
+                        "groups": "",
+                        "resources": [
+                            {
+                                "name": "Camera Output",
+                                "resourceId": "1",
+                                "extension": ""
+                            },
+                            {
+                                "name": "Device Camera Texture",
+                                "resourceId": "2",
+                                "extension": ""
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Weapons",
+                        "groups": [
+                            {
+                                "name": "Axe",
+                                "groups": [
+                                    {
+                                        "name": "Sprites",
+                                        "groups": "",
+                                        "resources": [
+                                            {
+                                                "name": "AxeGround",
+                                                "resourceId": "139",
+                                                "extension": "png"
+                                            },
+                                            {
+                                                "name": "Axe",
+                                                "resourceId": "151",
+                                                "extension": ""
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "name": "Sounds",
+                                        "groups": "",
+                                        "resources": [
+                                            {
+                                                "name": "Script",
+                                                "resourceId": "204",
+                                                "extension": "js"
+                                            },
+                                            {
+                                                "name": "swish",
+                                                "resourceId": "206",
+                                                "extension": "mp3"
+                                            }
+                                        ]
+                                    }
+                                ],
+                                "resources": ""
+                            }
+                        ],
+                        "resources": ""
+                    },
+                    {
+                        "name": "Audio",
+                        "groups": "",
+                        "resources": [
+                            {
+                                "name": "Doom 1 theme song (HQ)",
+                                "resourceId": "208",
+                                "extension": "mp3"
+                            },
+                            {
+                                "name": "playMusic",
+                                "resourceId": "209",
+                                "extension": "js"
+                            }
+                        ]
+                    }
+                ],
                 "resources": [
                     {
-                        "name": "Camera Output",
-                        "resourceId": "1",
+                        "name": "Orthographic Camera Output",
+                        "resourceId": "134",
                         "extension": ""
                     },
                     {
-                        "name": "Device Camera Texture",
-                        "resourceId": "2",
-                        "extension": ""
+                        "name": "Doom Sprites",
+                        "resourceId": "137",
+                        "extension": "png"
+                    },
+                    {
+                        "name": "DOOM0001",
+                        "resourceId": "198",
+                        "extension": "png"
+                    },
+                    {
+                        "name": "BehaviorScript",
+                        "resourceId": "202",
+                        "extension": "js"
+                    },
+                    {
+                        "name": "playAnimation",
+                        "resourceId": "203",
+                        "extension": "js"
                     }
                 ]
             },
-            "publicAssets": ""
+            "publicAssets": [
+                {
+                    "id": "13",
+                    "path": "Scripts\/WorldObjectController.js"
+                },
+                {
+                    "id": "58",
+                    "path": "Scripts\/CutoutSceneController.js"
+                },
+                {
+                    "id": "137",
+                    "path": "Doom Sprites.png"
+                },
+                {
+                    "id": "139",
+                    "path": "Weapons\/Axe\/Sprites\/AxeGround.png"
+                },
+                {
+                    "id": "151",
+                    "path": "Weapons\/Axe\/Sprites\/Axe"
+                },
+                {
+                    "id": "198",
+                    "path": "DOOM0001.png"
+                },
+                {
+                    "id": "202",
+                    "path": "BehaviorScript.js"
+                },
+                {
+                    "id": "203",
+                    "path": "playAnimation.js"
+                },
+                {
+                    "id": "204",
+                    "path": "Weapons\/Axe\/Sounds\/Script.js"
+                },
+                {
+                    "id": "206",
+                    "path": "Weapons\/Axe\/Sounds\/swish.mp3"
+                },
+                {
+                    "id": "208",
+                    "path": "Audio\/Doom 1 theme song (HQ).mp3"
+                },
+                {
+                    "id": "209",
+                    "path": "Audio\/playMusic.js"
+                }
+            ]
         },
         "InspectorController": {
-            "selection": ""
+            "selection": {
+                "objects": [
+                    "1546230512717082:146590"
+                ]
+            }
         },
         "EffectsController": {
             "1": "",
