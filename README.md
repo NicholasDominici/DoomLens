@@ -1,4 +1,4 @@
 # DoomLens
 
-![](https://upload.wikimedia.org/wikipedia/en/5/57/Doom_cover_art.jpg)<br>
-A recreation of the 1993 DOOM in Snapchat's Lens Studio.
+![](https://media.moddb.com/images/mods/1/37/36522/h1239272384.jpg)<br>
+A parody of Doom being created in Snapchat's Lens Studio
